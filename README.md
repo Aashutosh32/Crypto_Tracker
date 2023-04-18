@@ -6,7 +6,7 @@ Welcome to the Crypto Tracker! This website allows you to easily track the real-
 
 
 ## Demo
-#### Here is a working live demo :  https://app.netlify.com/sites/crypto-tracker-ap/overview
+#### Here is a working live demo :  https://crypto-tracker-ap.netlify.app
 
 ## Built with 
 
